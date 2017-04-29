@@ -1,0 +1,48 @@
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion Serwer.csprojResolveAssemblyReference.cache
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.Properties.Resources.resources
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion Serwer.csproj.GenerateResource.Cache
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.OknoGlowne.resources
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\srmserver.exe.config
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\srmserver.exe
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\srmserver.pdb
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.dll
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\srmserver.exe
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\srmserver.pdb
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.pdb
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.Design.dll
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.Fonts.dll
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.Design.pdb
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.Fonts.pdb
+E:\Pendrive\Projekty\SmartRedMotion OIT\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.OknoWylaczania.resources
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\srmserver.exe.config
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\srmserver.exe
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\srmserver.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.Design.dll
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.dll
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.Fonts.dll
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.Design.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.Fonts.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\bin\Debug\MetroFramework.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion Serwer.csprojResolveAssemblyReference.cache
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.OknoGlowne.resources
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.OknoWylaczania.resources
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.Properties.Resources.resources
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\SmartRedMotion Serwer.csproj.GenerateResource.Cache
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\srmserver.exe
+E:\Pendrive\Projekty\SmartRedMotion 2\Projekt Visual Studio\SmartRedMotion\SmartRedMotion Serwer\obj\Debug\srmserver.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\srmserver.exe.config
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\obj\Debug\srmserver.exe
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\obj\Debug\srmserver.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\srmserver.exe
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\srmserver.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\MetroFramework.Design.dll
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\MetroFramework.dll
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\MetroFramework.Fonts.dll
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\MetroFramework.Design.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\MetroFramework.Fonts.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\bin\Debug\MetroFramework.pdb
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\obj\Debug\SmartRedMotion Serwer.csprojResolveAssemblyReference.cache
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.OknoGlowne.resources
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.OknoWylaczania.resources
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\obj\Debug\SmartRedMotion_Serwer.Properties.Resources.resources
+E:\Pendrive\Projekty\SmartRedMotion 2+\Projekt Visual Studio\SmartRedMotion Serwer\obj\Debug\SmartRedMotion Serwer.csproj.GenerateResource.Cache
